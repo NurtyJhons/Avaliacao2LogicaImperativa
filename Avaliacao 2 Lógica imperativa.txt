@@ -1,0 +1,2 @@
+Primeiro o professor abstraiu os alunos que não trocaram de lugar, perguntando para turma quais alunos foram os que trocaram.
+Em seguida o professor perguntou para estes 2 alunos quais máterias cada um prefere, e logo em seguida viu as cadeiras que cada um estava sentado
